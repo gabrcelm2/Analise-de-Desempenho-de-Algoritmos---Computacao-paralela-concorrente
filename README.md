@@ -1,0 +1,1 @@
+# An-lise-de-Desempenho-de-Algoritmos---Computa-o-paralela-concorrente
